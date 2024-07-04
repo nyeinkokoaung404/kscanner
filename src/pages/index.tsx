@@ -76,7 +76,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Cloudflare Scanner | اسکنر آیپی تمیز کلودفلر</title>
+        <title>Cloudflare Scanner | Cloudflare သန့်ရှင်းသော IP စကင်နာ</title>
         <meta
           name="description"
           content="Cloudflare Scanner to find clean ip"
@@ -94,7 +94,7 @@ const Home: NextPage = () => {
           <div className="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-centered">
             <a href=".">
               <img src="img/cflogo.png?v1.1" alt="logo" />
-              <h1>اینترنت برای همه؛ یا هیچ‌کس!</h1>
+              <h1>Internet for all; or no one!</h1>
             </a>
           </div>
         </div>
@@ -104,13 +104,13 @@ const Home: NextPage = () => {
         <section className="col-lg-6 col-md-8 col-sm-12 col-xs-12 col-centered">
           <ul className="nav nav-tabs">
             <li>
-              <a href="https://ircf.space">معرفی</a>
+              <a href="https://ircf.space">Introduction</a>
             </li>
             <li className="active">
-              <a href="https://scanner.github1.cloud/">اسکنر</a>
+              <a href="https://scanner.github1.cloud/">scanner</a>
             </li>
             <li className="pull-left">
-              <a href="https://ircf.space/contacts.php">تماس‌باما</a>
+              <a href="https://ircf.space/contacts.php">Contact us</a>
             </li>
           </ul>
           <div className="clearfix"></div>
